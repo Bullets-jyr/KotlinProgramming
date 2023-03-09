@@ -1,4 +1,4 @@
-package section1
+package chap11.section1
 
 // 클래스
 class SimpleThread : Thread() {
